@@ -1,0 +1,3 @@
+!git add calc.py test_calc.py
+!git commit -m "Add simple calculator and tests"
+!git push origin main
